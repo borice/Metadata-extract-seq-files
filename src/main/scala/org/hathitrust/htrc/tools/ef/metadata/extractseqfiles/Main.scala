@@ -13,7 +13,7 @@ object Main {
   val appName: String = "extract-seq-files"
 
   def main(args: Array[String]): Unit = {
-    val conf = new Conf(args.toIndexedSeq)
+    val conf = new Conf(args.to(Seq))
     val inputPath = conf.inputPath().toString
     val outputPath = conf.outputPath().toString
     val outputFormat = conf.outputFormat()
