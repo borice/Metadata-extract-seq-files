@@ -1,4 +1,5 @@
 [![Scala CI](https://github.com/htrc/Metadata-extract-seq-files/actions/workflows/ci.yml/badge.svg)](https://github.com/htrc/Metadata-extract-seq-files/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/htrc/Metadata-extract-seq-files/graph/badge.svg?token=eAU8RK60Yd)](https://codecov.io/gh/htrc/Metadata-extract-seq-files)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/htrc/Metadata-extract-seq-files?include_prereleases&sort=semver)](https://github.com/htrc/Metadata-extract-seq-files/releases/latest)
 
 # Metadata-extract-seq-files
